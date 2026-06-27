@@ -1,0 +1,22 @@
+# Virtual environments
+.venv/
+.venv312/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# PyCharm
+.idea/
+*.iml
+
+# Project folders
+dataset/
+runs/
+uploaded_videos/
+processed_videos/
+
+# Trained models
+*.pt
